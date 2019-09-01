@@ -151,11 +151,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BasicMultiThreadingDemo.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="SortingNumbers.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BasicMultiThreadingDemo.h" />
     <ClInclude Include="SortingNumbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

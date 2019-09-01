@@ -36,7 +36,6 @@ Your input : Q
 #include <Windows.h>
 
 #include "SortingNumbers.h"
-#include "BasicMultiThreadingDemo.h"
 
 using namespace std;
 
